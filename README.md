@@ -2,7 +2,7 @@
 
 I want to thank you Mohammad-Ali A'RÂBI for developing this amazing project https://github.com/aerabi/hacktoberfest-cv
 
-[![latest release tag](https://img.shields.io/github/v/tag/acodispoti/resume?label=download%20pdf)](https://github.com/acodispoti/resume/releases/latest/download/main.pdf)
+[![latest release tag](https://img.shields.io/github/v/tag/acodispoti/resume?label=download%20pdf)](https://github.com/acodispoti/resume/suites/11795834763/artifacts/615488313)
 ![GitHub release date](https://img.shields.io/github/release-date/acodispoti/resume)
 ![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/acodispoti/resume/latest)
 
