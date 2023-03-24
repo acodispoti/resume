@@ -7,7 +7,7 @@ I want to thank you Mohammad-Ali A'RÂBI for developing this amazing project htt
 ![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/acodispoti/resume/latest)
 
 You can download the latest CV release as PDF by clicking
-[![latest release tag](https://img.shields.io/github/v/tag/acodispoti/resume?label=download%20pdf)](https://github.com/acodispoti/resume/releases/latest/download/main.pdf)
+[![latest release tag](https://img.shields.io/github/v/tag/acodispoti/resume?label=download%20pdf)](https://github.com/acodispoti/resume/suites/11795834763/artifacts/615488313)
 badge. To access the older versions, navigate to the [Releases](https://github.com/acodispoti/resume/releases) section on the right.
 
 ## Development
