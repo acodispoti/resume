@@ -14,7 +14,13 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: PDF
-          path: /download/main.pdf
+          path: main.pdf
+      - name: Download a single artifact
+        uses: actions/download-artifact@v3
+        with:
+        name: PDF
+        path: ../download/
+
 
 
           
