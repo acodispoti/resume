@@ -18,8 +18,8 @@ jobs:
       - name: Download a single artifact
         uses: actions/download-artifact@v3
         with:
-        name: PDF
-        path: ../download/
+          name: PDF
+          path: ../download/
 
 
 
