@@ -15,15 +15,4 @@ jobs:
         with:
           name: PDF
           path: main.pdf
-      - uses: actions/checkout@v3
-      - name: Download PDF file
-        uses: actions/download-artifact@v3
-        with:
-          name: PDF
-          path: /download/main.pdf
-    
-      - name: Display structure of downloaded files
-        run: ls -R
-        working-directory: download/
-
           
