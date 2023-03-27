@@ -15,15 +15,9 @@ jobs:
         with:
           name: PDF
           path: main.pdf
-      - uses: actions/checkout@v3
-      - name: Download PDF file
-        uses: actions/download-artifact@v3
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
         with:
-          name: PDF
-          path: download/
-    
-      - name: Display structure of downloaded files
-        run: ls -R
-        working-directory: download/
-
+          files: main.pdf
           
