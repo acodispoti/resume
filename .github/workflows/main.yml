@@ -20,7 +20,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: PDF
-          path: ../download/
+          path: ../download/main.pdf
     
       - name: Display structure of downloaded files
         run: ls -R
